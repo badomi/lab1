@@ -1,4 +1,4 @@
-CC = gcc
+CC = gcc -g
 OBJS = add.o subtract.o multiply.o divide.o
 
 all: libcalc.a libcalc.so

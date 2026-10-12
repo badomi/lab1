@@ -1,4 +1,4 @@
-CC = gcc
+CC = gcc -g
 
 all: libs main_static main_shared main_dynamic
 
